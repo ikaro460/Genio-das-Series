@@ -1,0 +1,39 @@
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\ikaro\Desktop\PROG\DIO\projeto 1\PROJETO\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\Mega-Series\App\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\obj\Debug\netcoreapp3.1\DIO.Series.csprojAssemblyReference.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\ikaro\Desktop\PROG\DIO\projeto1\PROJETO\DIO.Series\App\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
